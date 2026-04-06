@@ -2,17 +2,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090909,100:00FFCC&height=200&section=header&text=Sunny%20Kumar&fontSize=65&fontAlign=50&fontAlignY=35&desc=Cyber%20Security%20Enthusiast%20%7C%20B.Tech%20CSE&descAlign=50&descAlignY=60&descSize=20&animation=fadeIn" alt="Header Banner" />
 </div>
 
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=39FF14&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Sunny+Kumar+👋;Cyber+Security+Enthusiast+💻;Cryptography+Explorer+🔐;B.Tech+CSE+Student+🎓" alt="Typing SVG Intro" />
-  </a>
-</div>
-
 <p align="center">
-  <em>📍 Based in India &nbsp; • &nbsp; 🌐 <a href="https://sunnykumar95.xyz/">sunnykumar95.xyz</a></em>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=1500&pause=500&color=00FF00&background=000000&center=true&vCenter=true&width=650&lines=root%40system%3A~%24%20init%20life.sh;executing...%20eat%28%29%3B%20sleep%28%29%3B;~~~~~~%20~~~~~~%20~~~~~~%20~~~~~~"/>
 </p>
-
-<br/>
 
 ## 🛡️ System Overview
 > "Securing the digital frontier, one vulnerability at a time."
