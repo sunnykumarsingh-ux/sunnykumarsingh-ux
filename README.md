@@ -1,15 +1,18 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090909,100:00FFCC&height=200&section=header&text=Sunny%20Kumar&fontSize=65&fontAlign=50&fontAlignY=35&desc=Cyber%20Security%20Enthusiast%20%7C%20B.Tech%20CSE&descAlign=50&descAlignY=60&descSize=20&animation=fadeIn" alt="Header Banner" />
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sunnykumarsingh-ux/sunnykumarsingh-ux/main/standard.gif" style="width:100%; max-width:1200px;">
+</p>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=1500&pause=500&color=00FF00&background=000000&center=true&vCenter=true&width=650&lines=root%40system%3A~%24%20init%20life.sh;executing...%20eat%28%29%3B%20sleep%28%29%3B;~~~~~~%20~~~~~~%20~~~~~~%20~~~~~~"/>
 </p>
 
-## 🛡️ System Overview
-> "Securing the digital frontier, one vulnerability at a time."
+## 🧑‍💻 About Me
 
-I am a **B.Tech CSE student** deeply passionate about **Cyber Security, Cryptography, and Secure Communication**. I actively explore methods to uncover vulnerabilities, understand exploit mechanics, and engineer robust security systems. I also leverage modern web technologies to build visually striking, high-performance portfolios and applications.
+I am a Cyber Security undergraduate passionate about building secure systems and solving real-world problems through code.  
+I work with C, C++, Python, and Java, and have a strong foundation in Data Structures and core CS concepts.  
+
+My interests lie in Cyber Security, Ethical Hacking, and Secure Communication.  
+I am continuously learning, building, and improving my skills to become a skilled Security Engineer.
 
 ## 💻 Tech Stack & Tooling
 
@@ -24,21 +27,13 @@ I am a **B.Tech CSE student** deeply passionate about **Cyber Security, Cryptogr
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </p>
 
-## 📂 Key Operations (Projects)
+## 🚀 Key Operations (Projects)
 
-| Target Concept | Description & Objective |
+| ⚡ Project | 🧠 Description & Objective |
 | :--- | :--- |
-| 🔐 **Secure Communication System** | An encrypted messaging framework built leveraging core cryptography techniques to ensure end-to-end data integrity, confidentiality, and secure transmission. |
-| 🌐 **[Digital Portfolio](https://sunnykumar95.xyz/)** | A modern, animated, visually stunning personal portfolio designed to showcase my capabilities, aesthetic sense, and technical proficiency. |
-
-<br/>
-
-## 📊 Telemetry & Activity
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sunnykumarsingh-ux&show_icons=true&bg_color=090909&text_color=A9B2C3&icon_color=39FF14&title_color=00FFCC&hide_border=true&border_radius=10" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sunnykumarsingh-ux&background=090909&fire=39FF14&ring=00FFCC&currStreakLabel=A9B2C3&currStreakNum=00FFCC&sideNums=00FFCC&sideLabels=A9B2C3&dates=A9B2C3&hide_border=true&border_radius=10" alt="GitHub Streak" width="48%" />
-</div>
+| 🔐 **Secure Communication System** | Engineered a secure messaging framework using cryptographic techniques to ensure **end-to-end encryption, data integrity, and confidentiality** across communication channels. |
+| 🤖 **[AI-Based Intrusion Detection System](https://github.com/sunnykumarsingh-ux/AI-BASED-INTRUSION-DETECTION-SYSTEM-USING-DEEP-LEARNING)** | Developed a deep learning-powered IDS to **detect and classify network threats in real-time**, enhancing system security through intelligent anomaly detection and attack pattern recognition. |
+| 🌐 **[Digital Portfolio](https://sunnykumar95.xyz/)** | Designed a modern, animated portfolio showcasing **projects, skills, and creativity** with a strong focus on UI/UX and interactive web experiences. |
 
 <br/>
 
