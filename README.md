@@ -14,18 +14,6 @@ I work with C, C++, Python, and Java, and have a strong foundation in Data Struc
 My interests lie in Cyber Security, Ethical Hacking, and Secure Communication.  
 I am continuously learning, building, and improving my skills to become a skilled Security Engineer.
 
-## 💻 Tech Stack & Tooling
-
-<p align="left">
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Python-090909?style=for-the-badge&logo=python&logoColor=39FF14" alt="Python" />
-  <!-- Web -->
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-</p>
 
 ## 🚀 Key Operations (Projects)
 
@@ -36,13 +24,6 @@ I am continuously learning, building, and improving my skills to become a skille
 | 🌐 **[Digital Portfolio](https://sunnykumar95.xyz/)** | Designed a modern, animated portfolio showcasing **projects, skills, and creativity** with a strong focus on UI/UX and interactive web experiences. |
 
 <br/>
-
-<div align="center">
-  <h3>🐍 Contribution Graph</h3>
-  <!-- Replace with your actual snake SVG link once the GitHub Action is set up -->
-  <img src="https://raw.githubusercontent.com/sunnykumarsingh-ux/sunnykumarsingh-ux/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" width="100%"/>
-</div>
-
 <br/>
 
 ## 📡 Establish Connection
@@ -51,6 +32,9 @@ I am continuously learning, building, and improving my skills to become a skille
   <a href="https://sunnykumar95.xyz/">
     <img src="https://img.shields.io/badge/Portfolio-090909?style=for-the-badge&logo=vercel&logoColor=00FFCC" alt="Portfolio" />
   </a>
+   <a href="https://www.credly.com/users/sunnykumar95">
+    <img src="https://img.shields.io/badge/Credly-D14836?style=for-the-badge&logo=Credly&logoColor=white" alt="Credly" />
+  </a>
   <a href="https://linkedin.com/in/sunny-kumar-6371a7236">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -58,6 +42,7 @@ I am continuously learning, building, and improving my skills to become a skille
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
